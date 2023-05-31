@@ -1,6 +1,6 @@
 # Christoffel Symbols Calculator
 
-A simple program that calculates the Christoffel symbols from the components of a user-defined metric tensor.
+A simple program that calculates the Christoffel symbols (Levi-Civita connection coefficients) from the components of a user-defined symmetric metric tensor.
 
 ## Installation
 
