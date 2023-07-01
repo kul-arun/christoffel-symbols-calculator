@@ -20,7 +20,7 @@ python3 -m venv christoffel-symbols
 
 Activate the virtual environment with:
 ```
-source <virtual-environment-name>/bin/activate
+source <path-to-virtual-environment>/bin/activate
 ```
 
 The virtual environment can be deactivated with:
